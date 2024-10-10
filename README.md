@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋! I'am António Victor
 
-<!--
-**Victorbagas/victorbagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✍️ Atualmente trabalho no meu projeto “CRINC”, que visa criar algo bonito e inovador, com o objetivo de ser reconhecido mundialmente. Estou explorando ideias e tecnologias criativas para desenvolver soluções impactantes!
+- 🧠 Estudando e aprofundando meus conhecimentos em linguagem C!
+  
+- 📫 Contactar-me:
 
-Here are some ideas to get you started:
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorbagas220@gmail.com)
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vctorbagas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![victorbagas GitHub stats](https://github-readme-stats.vercel.app/api?username=victorbagas&show_icons=true&theme=radical)
+
+## : Tecnológias que uso no day/day
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
+[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+
+- 😄 Pronouns: He/His
